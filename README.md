@@ -5,6 +5,7 @@ A curated list of awesome Android Permission libraries.
 
 - 相关资源均来自网络，仅供学习使用，与作者及贡献者无关
 
+## 开源项目
 - [hongyangAndroid/MPermissions](https://github.com/hongyangAndroid/MPermissions)
 - [RurioLuca/PermissionManager](https://github.com/RurioLuca/PermissionManager)
 - [hytcyjb/Permission](https://github.com/hytcyjb/Permission)
