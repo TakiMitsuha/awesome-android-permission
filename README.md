@@ -35,7 +35,8 @@ A curated list of awesome Android Permission libraries.
 - [hotchemi/PermissionsDispatcher](https://github.com/hotchemi/PermissionsDispatcher)
 - [tajchert/Nammu](https://github.com/tajchert/Nammu)
 - [mylhyl/AndroidAcp](https://github.com/mylhyl/AndroidAcp)
-- [holidaycheck/Permissify)](https://github.com/holidaycheck/Permissify)
+- [holidaycheck/Permissify](https://github.com/holidaycheck/Permissify)
+- [yanzhenjie/AndPermission](https://github.com/yanzhenjie/AndPermission)
 
 ## 附注
 
